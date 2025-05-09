@@ -56,12 +56,12 @@ DeepSwapX is intended solely for educational, research, and personal entertainme
 
 ## Screenshots
 
-![Login Screen]
+[Login Screen]
 
 ![WhatsApp Image 2025-05-02 at 19 22 55_4244e344](https://github.com/user-attachments/assets/4e722d5a-df20-4f47-b09c-8c06e4bc3008)
 
 
-![DeepSwap Interface]
+[DeepSwap Interface]
 
 
 ![WhatsApp Image 2025-05-02 at 19 25 13_f4b1a0b7](https://github.com/user-attachments/assets/d8f1bb81-a6fa-400d-aea0-b9c4ae73a2d5)
