@@ -57,7 +57,8 @@ DeepSwapX is intended solely for educational, research, and personal entertainme
 
 ## Screenshots
 
-![Login Screen](https://via.placeholder.com/400x300?text=Login+Screen)
+![Login Screen](![WhatsApp Image 2025-05-02 at 19 24 49_cf9b56b4](https://github.com/user-attachments/assets/1f5a35e0-e7d0-4adb-ac33-5a47f41ee7d2)
+)
 ![DeepSwap Interface](https://via.placeholder.com/400x300?text=DeepSwap+Interface)
 
 ## Requirements
