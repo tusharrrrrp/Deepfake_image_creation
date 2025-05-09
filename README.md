@@ -10,6 +10,7 @@ DeepSwapX is a face-swapping application with a secure user authentication syste
 #Installation
 
 Clone the repository:
+
 bash
 git clone https://github.com/tusharrrrrp/Deepfake_image_creation.git
 cd Deepfake_image_creation
