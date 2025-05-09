@@ -7,7 +7,7 @@ Face Swapping: Swap faces between source and target images
 Hardware Options: Choose between CPU and GPU processing
 Legal Compliance: Built-in legal notices and watermarking
 
-Installation
+#Installation
 
 Clone the repository:
 
