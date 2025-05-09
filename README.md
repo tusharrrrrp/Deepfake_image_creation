@@ -2,7 +2,6 @@
 
 DeepSwapX is a face-swapping application with a secure user authentication system. It allows users to swap faces between two images for educational, research, and personal entertainment purposes only.
 
-![DeepSwapX Banner](https://via.placeholder.com/800x200?text=DeepSwapX)
 
 ## Features
 
