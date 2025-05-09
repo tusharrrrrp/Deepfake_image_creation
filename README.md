@@ -1,4 +1,3 @@
-# Deepfake_image_creation
 # DeepSwapX
 
 DeepSwapX is a face-swapping application with a secure user authentication system. It allows users to swap faces between two images for educational, research, and personal entertainment purposes only.
@@ -57,10 +56,13 @@ DeepSwapX is intended solely for educational, research, and personal entertainme
 
 ## Screenshots
 
-![Login Screen](![WhatsApp Image 2025-05-02 at 19 24 49_cf9b56b4](https://github.com/user-attachments/assets/1f5a35e0-e7d0-4adb-ac33-5a47f41ee7d2)
-)
-![DeepSwap Interface](![WhatsApp Image 2025-05-02 at 19 22 42_e3fe6ebf](https://github.com/user-attachments/assets/a96ada7c-836b-46bf-97b7-8c9a0cd58530)
-)
+![Login Screen]
+
+![DeepSwap Interface]
+
+
+![WhatsApp Image 2025-05-02 at 19 22 42_12062323](https://github.com/user-attachments/assets/1919fd84-6462-4780-b62c-9c8b3322ef93)
+
 
 ## Requirements
 
