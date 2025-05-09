@@ -12,7 +12,7 @@ Installation
 Clone the repository:
 
 bash
-git clone https://github.com/YOUR_USERNAME/main.git
+git clone https://github.com/tusharrrrrp/Deepfake_image_creation.git
 cd Deepfake_image_creation
 
 Install dependencies:
