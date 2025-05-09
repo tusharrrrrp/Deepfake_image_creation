@@ -58,10 +58,15 @@ DeepSwapX is intended solely for educational, research, and personal entertainme
 
 ![Login Screen]
 
+![WhatsApp Image 2025-05-02 at 19 22 55_4244e344](https://github.com/user-attachments/assets/4e722d5a-df20-4f47-b09c-8c06e4bc3008)
+
+
 ![DeepSwap Interface]
 
 
-![WhatsApp Image 2025-05-02 at 19 22 42_12062323](https://github.com/user-attachments/assets/1919fd84-6462-4780-b62c-9c8b3322ef93)
+![WhatsApp Image 2025-05-02 at 19 25 13_f4b1a0b7](https://github.com/user-attachments/assets/d8f1bb81-a6fa-400d-aea0-b9c4ae73a2d5)
+
+![WhatsApp Image 2025-05-02 at 19 26 01_9d6e1f3c](https://github.com/user-attachments/assets/f7629d63-088b-405a-8b58-07b8cf04e3a5)
 
 
 ## Requirements
